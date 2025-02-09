@@ -1,7 +1,6 @@
 # Olá! me Chamo Erick Monteiro 👋
 
-- 🔭 Atualmente estou procurando emprego
-- 🌱 Estou estudando Game desing e programação C++.
+- 🔭 Atualmente estou estudando Game desing e programação C++.
 - 📫 Pode entrar em contato no email ou Whatsapp
 -     erickdosantosmonteiro@gmail.com
 -     11 94592-2993
