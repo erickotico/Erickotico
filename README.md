@@ -7,7 +7,7 @@
 - Link Itch.Io: **https://erickotico-dev.itch.io/**
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickotico)](https://github.com/erickotico/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickotico&theme=tokyonight&layout=compact&locale=pt-br&border_radius=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickotico&theme=tokyonight&layout=compact&locale=pt-br&border_radius=25)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
